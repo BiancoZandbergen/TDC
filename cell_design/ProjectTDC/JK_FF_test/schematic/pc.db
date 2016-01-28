@@ -1,0 +1,22 @@
+#
+analogLib cap symbol
+C0
+#
+ProjectTDC JK_FF symbol
+I6
+I5
+I3
+I2
+I0
+#
+analogLib vpulse symbol
+V3
+#
+analogLib vdc symbol
+V2
+#ISCELL
+basic vdd symbol
+I1
+#ISCELL
+analogLib gnd symbol
+I4
