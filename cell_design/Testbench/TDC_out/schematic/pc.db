@@ -1,0 +1,39 @@
+#
+Testbench Inv_2x symbol
+I19
+I20
+I21
+I22
+I23
+#
+Testbench Inv_5x symbol
+I16
+I17
+I18
+I14
+I15
+#
+analogLib cap symbol
+C4
+C3
+C2
+C1
+C0
+#ISCELL
+analogLib gnd symbol
+I13
+I12
+I11
+I10
+I67
+#ISCELL
+basic ipin symbol
+PIN5
+PIN4
+PIN3
+PIN2
+PIN0
+#ISCELL
+basic iopin symbolr
+PIN6
+PIN1

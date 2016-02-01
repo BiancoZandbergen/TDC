@@ -1,0 +1,34 @@
+\o Program:		@(#)$CDS: libManager.exe version Exp 01/19/2010 20:09 (ocelot-linux) $
+\o Sub version:		sub-version none
+\o Arguments:		-unmapped -mpssession icfb6789 -mpshost et4293.et.tudelft.nl 
+\o Working Directory:	et4293.et.tudelft.nl:/home/aaljuffri/work/assignment2/cell_design
+\o Warning: LIB basic from File /home/aaljuffri/work/assignment2/cell_design/cds.lib Line 11 redefines
+\o LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
+\o Insert UNDEFINE basic
+\o before DEFINE basic
+\o     in /home/aaljuffri/work/assignment2/cell_design/cds.lib
+\o Or remove or comment out DEFINE basic
+\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
+\o to suppress this warning message.
+\o Library Manager customization server connected.
+MPS service: map window
+\o Log file is "/home/aaljuffri/work/assignment2/cell_design/libManager.log".
+Opening libManager window.
+Main selection: ProjectTDC Pulse_shrink schematic
+\o Opening design file through session server.
+MPS request: edit design
+\o Warning: LIB basic from File /home/aaljuffri/work/assignment2/cell_design/cds.lib Line 11 redefines
+\o LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
+\o Insert UNDEFINE basic
+\o before DEFINE basic
+\o     in /home/aaljuffri/work/assignment2/cell_design/cds.lib
+\o Or remove or comment out DEFINE basic
+\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
+\o to suppress this warning message.
+MPS request: update library list
+Main selection: ProjectTDC JK_FF schematic
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC JK_FF_test schematic
+\o Opening design file through session server.
+MPS request: edit design

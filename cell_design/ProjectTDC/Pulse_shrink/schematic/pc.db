@@ -1,0 +1,65 @@
+#
+ProjectTDC buffer symbol
+I33
+#
+ProjectTDC Inverter symbol
+I30
+I17
+#
+analogLib vpulse symbol
+V1
+V3
+#
+analogLib vdc symbol
+V2
+#
+ProjectTDC NAND2 symbol
+I29
+I13
+I14
+#
+ProjectTDC JK_FF symbol
+I32
+I31
+I9
+I2
+#
+ProjectTDC D_FF symbol
+I19
+I26
+I21
+I20
+I8
+I7
+I6
+I1
+#
+ProjectTDC TwoInverter symbol
+I23
+I24
+I25
+I18
+I5
+I4
+I3
+I0
+#ISCELL
+basic opin symbol
+PIN20
+PIN21
+PIN19
+PIN18
+PIN17
+PIN16
+PIN15
+PIN14
+PIN5
+PIN13
+PIN6
+PIN7
+#ISCELL
+basic vdd symbol
+I15
+#ISCELL
+analogLib gnd symbol
+I16

@@ -1,0 +1,25 @@
+#
+ProjectTDC NAND3 symbol
+I11
+#
+ProjectTDC Inverter symbol
+I10
+I4
+#
+ProjectTDC NAND2 symbol
+I6
+I9
+I7
+I2
+I1
+I0
+I3
+#ISCELL
+basic ipin symbol
+PIN4
+PIN3
+PIN0
+#ISCELL
+basic opin symbol
+PIN2
+PIN1
