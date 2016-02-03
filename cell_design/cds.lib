@@ -1,3 +1,9 @@
+-- File Created by  at Tue Feb  2 01:52:54 2016
+-- assisted by CdsLibEditor
+-- File Created by  at Tue Feb  2 01:48:54 2016
+-- assisted by CdsLibEditor
+-- File Created by  at Tue Feb  2 01:48:37 2016
+-- assisted by CdsLibEditor
 -- File Created by  at Sat Jan 30 14:31:21 2016
 -- assisted by CdsLibEditor
 -- File Created by  at Sat Jan 30 14:27:07 2016
@@ -14,5 +20,5 @@ DEFINE sample ${CDS_INST_DIR}/tools/dfII/samples/cdslib/sample
 DEFINE ROD ./ROD
 DEFINE assignment2 /home/aaljuffri/work/assignment2/cell_design/assignment2
 DEFINE assignment2a /home/aaljuffri/work/assignment2/cell_design/assignment2a
-DEFINE ProjectTDC /home/aaljuffri/work/assignment2/cell_design/ProjectTDC
 DEFINE Testbench Testbench
+DEFINE ProjectTDC ProjectTDC

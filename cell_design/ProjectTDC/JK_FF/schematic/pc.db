@@ -1,6 +1,6 @@
 #
-assignment2a inverter1 symbol
-I8
+ProjectTDC Inverter symbol
+I10
 #
 ProjectTDC NAND3 symbol
 I9
@@ -15,10 +15,11 @@ I3
 I0
 #ISCELL
 basic opin symbol
-PIN1
 PIN0
 #ISCELL
 basic ipin symbol
+PIN7
+PIN6
 PIN5
 PIN4
 PIN3

@@ -13,12 +13,8 @@ basic opin symbol
 PIN3
 #ISCELL
 basic ipin symbol
+PIN4
+PIN5
 PIN0
 PIN1
 PIN2
-#ISCELL
-analogLib gnd symbol
-I3
-#ISCELL
-analogLib vdd symbol
-I2
