@@ -1,0 +1,9 @@
+#
+analogLib vdc symbol
+V0
+#
+ProjectTDC XOR2 symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I2

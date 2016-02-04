@@ -1,31 +1,15 @@
 #
-umc90nm N_10_SP spectre
-NM5
-NM4
-NM3
-NM2
-NM1
-NM0
-#
-umc90nm P_10_SP spectre
-PM5
-PM4
-PM3
-PM2
-PM1
-PM0
+ProjectTDC NAND2 symbol
+I7
+I8
+I6
+I9
 #ISCELL
 basic ipin symbol
-PIN3
 PIN4
+PIN3
 PIN2
 PIN0
-#ISCELL
-analogLib gnd symbol
-I1
-#ISCELL
-analogLib vdd symbol
-I2
 #ISCELL
 basic opin symbol
 PIN1
