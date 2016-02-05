@@ -1,0 +1,15 @@
+#
+ProjectTDC Inverter symbol
+I1
+#
+ProjectTDC NOR2 symbol
+I0
+#ISCELL
+basic ipin symbol
+PIN2
+PIN1
+PIN4
+PIN0
+#ISCELL
+basic opin symbol
+PIN3

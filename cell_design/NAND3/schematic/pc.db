@@ -1,0 +1,20 @@
+#
+umc90nm N_10_SP spectre
+NM2
+NM1
+NM0
+#
+umc90nm P_10_SP spectre
+PM2
+PM0
+PM1
+#ISCELL
+basic opin symbol
+PIN3
+#ISCELL
+basic ipin symbol
+PIN4
+PIN5
+PIN0
+PIN1
+PIN2

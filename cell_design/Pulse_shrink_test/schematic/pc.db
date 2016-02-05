@@ -1,0 +1,29 @@
+#
+analogLib vdc symbol
+V2
+#
+analogLib vpulse symbol
+V1
+V0
+V3
+#
+ProjectTDC Pulse_shrink symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I4
+#ISCELL
+basic vdd symbol
+I1
+#ISCELL
+basic opin symbol
+PIN9
+PIN8
+PIN7
+PIN6
+PIN5
+PIN0
+PIN1
+PIN2
+PIN3
+PIN4
