@@ -1,13 +1,9 @@
 #
-umc90nm N_10_SP spectre
-NM2
-NM1
-NM0
+ProjectTDC NAND2 symbol
+I1
 #
-umc90nm P_10_SP spectre
-PM2
-PM1
-PM0
+ProjectTDC Inverter symbol
+I0
 #ISCELL
 basic opin symbol
 PIN3

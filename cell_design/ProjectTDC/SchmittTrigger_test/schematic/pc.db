@@ -1,13 +1,15 @@
 #
+ProjectTDC SchmittTrigger2 symbol
+I15
+#
 ProjectTDC buffer symbol
-I14
-I13
 I12
+I13
+I14
 #
 ProjectTDC SchmittTrigger symbol
 I11
 I9
-I10
 #
 analogLib vdc symbol
 V2
