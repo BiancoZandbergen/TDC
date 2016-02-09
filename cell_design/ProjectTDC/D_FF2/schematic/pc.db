@@ -1,0 +1,21 @@
+#
+ProjectTDC NAND2_small symbol
+I5
+I4
+#
+ProjectTDC NAND3_small symbol
+I6
+I2
+I3
+I1
+#ISCELL
+basic opin symbol
+PIN2
+PIN1
+#ISCELL
+basic ipin symbol
+PIN0
+PIN3
+PIN4
+PIN6
+PIN5

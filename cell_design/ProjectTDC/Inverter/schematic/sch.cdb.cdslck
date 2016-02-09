@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      aaljuffri
+HostName                       icdvm2.ewi.tudelft.nl
+ProcessIdentifier              13026
+ProcessCreationTime_UTC        1455022700
+ProcessCreationTime_Readable   Tue Feb  9 13:58:20 2016 CET
+AppIdentifier                  /data/cad/Cadence/IC5/5.1.41HF143/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXsave write lock
+FilePathUsedToEditLock         /home/aaljuffri/work/assignment2/cell_design/ProjectTDC/Inverter/schematic/sch.cdb
+TimeEditLocked                 Tue Feb  9 16:49:56 2016 CET

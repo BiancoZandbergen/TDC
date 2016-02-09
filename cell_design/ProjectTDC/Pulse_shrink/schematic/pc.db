@@ -1,6 +1,22 @@
 #
+ProjectTDC expander symbol
+I95
+#
+ProjectTDC Inverter_small symbol
+I94
+#
+ProjectTDC D_FF2 symbol
+I88
+I92
+I93
+I90
+I91
+I89
+I87
+#
 ProjectTDC buffer2 symbol
-I78
+I79
+I80
 #
 ProjectTDC NAND2 symbol
 I77
@@ -18,14 +34,6 @@ I74
 ProjectTDC buffer symbol
 I66
 #
-analogLib vpulse symbol
-V1
-V3
-V4
-#
-analogLib vdc symbol
-V2
-#
 ProjectTDC AND2 symbol
 I52
 #
@@ -36,30 +44,17 @@ ProjectTDC thermometerEnc8 symbol
 I37
 #
 ProjectTDC Inverter symbol
-I42
-I43
-I44
-I45
+I96
 I30
-I76
-#
-ProjectTDC JK_FF symbol
-I38
-I39
-I32
-I34
-I31
-I9
-I2
 #
 ProjectTDC D_FF symbol
+I86
 I26
 I21
 I20
 I8
 I7
 I6
-I1
 #ISCELL
 basic opin symbol
 PIN19
@@ -74,12 +69,8 @@ PIN6
 PIN7
 #ISCELL
 basic ipin symbol
+PIN12
+PIN20
 PIN9
 PIN0
 PIN1
-#ISCELL
-basic vdd symbol
-I53
-#ISCELL
-analogLib gnd symbol
-I54

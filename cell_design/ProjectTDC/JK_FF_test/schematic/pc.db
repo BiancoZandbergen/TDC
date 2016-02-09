@@ -3,11 +3,13 @@ analogLib cap symbol
 C0
 #
 ProjectTDC JK_FF symbol
-I3
+I7
+I8
 I5
 I6
-I0
+I3
 I2
+I0
 #
 analogLib vpulse symbol
 V3
