@@ -1,5 +1,6 @@
 #
 ProjectTDC buffer2 symbol
+I18
 I17
 #
 ProjectTDC NAND3 symbol
@@ -13,9 +14,9 @@ I9
 I0
 #ISCELL
 basic ipin symbol
+PIN4
 PIN5
 PIN6
-PIN4
 PIN3
 PIN0
 #ISCELL
