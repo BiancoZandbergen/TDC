@@ -1,4 +1,7 @@
 #
+ProjectTDC Loopback_DelayLine symbol
+I102
+#
 ProjectTDC expander symbol
 I95
 #
@@ -15,9 +18,10 @@ I89
 I87
 #
 ProjectTDC buffer2 symbol
-I97
 I79
 I80
+I101
+I97
 #
 ProjectTDC NAND2 symbol
 I77
@@ -32,9 +36,6 @@ I70
 I69
 I74
 #
-ProjectTDC buffer symbol
-I66
-#
 ProjectTDC AND2 symbol
 I52
 #
@@ -45,7 +46,6 @@ ProjectTDC thermometerEnc8 symbol
 I37
 #
 ProjectTDC Inverter symbol
-I96
 I30
 #
 ProjectTDC D_FF symbol
