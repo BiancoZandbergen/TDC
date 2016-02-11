@@ -4,13 +4,13 @@
 # Information about current Edit Lock Owner.
 #
 LockStakeVersion               1.1
-LoginName                      aaljuffri
-HostName                       icdvm2.ewi.tudelft.nl
-ProcessIdentifier              13026
-ProcessCreationTime_UTC        1455022700
-ProcessCreationTime_Readable   Tue Feb  9 13:58:20 2016 CET
+LoginName                      biancozandberg
+HostName                       tud208368.ws.tudelft.net
+ProcessIdentifier              23260
+ProcessCreationTime_UTC        1455203673
+ProcessCreationTime_Readable   Thu Feb 11 16:14:33 2016 CET
 AppIdentifier                  /data/cad/Cadence/IC5/5.1.41HF143/tools/dfII/bin/icfb.exe
 OSType                         lnx86
-ReasonForPlacingEditLock       XXsave write lock
-FilePathUsedToEditLock         /home/aaljuffri/work/assignment2/cell_design/ProjectTDC/Pulse_shrink/schematic/sch.cdb
-TimeEditLocked                 Tue Feb  9 16:53:41 2016 CET
+ReasonForPlacingEditLock       XXopen upgrade lock
+FilePathUsedToEditLock         /home/biancozandberg/TDC/cell_design/ProjectTDC/Pulse_shrink/schematic/sch.cdb
+TimeEditLocked                 Thu Feb 11 16:32:40 2016 CET
