@@ -1,0 +1,27 @@
+#
+ProjectTDC buffer2 symbol
+I101
+#
+ProjectTDC D_FF2 symbol
+I8
+I87
+I3
+I5
+I11
+I12
+I7
+#ISCELL
+basic opin symbol
+PIN13
+PIN14
+PIN15
+PIN16
+PIN17
+PIN18
+PIN19
+#ISCELL
+basic ipin symbol
+PIN3
+PIN2
+PIN0
+PIN1

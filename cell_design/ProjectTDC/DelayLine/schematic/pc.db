@@ -1,0 +1,35 @@
+#
+ProjectTDC D_FF symbol
+I86
+I4
+I0
+I8
+I3
+I7
+I11
+#
+ProjectTDC TwoInverter symbol
+I1
+I68
+I9
+I13
+I2
+I5
+I6
+I10
+#ISCELL
+basic ipin symbol
+PIN0
+PIN1
+PIN11
+PIN12
+#ISCELL
+basic opin symbol
+PIN7
+PIN3
+PIN4
+PIN9
+PIN10
+PIN8
+PIN6
+PIN5
