@@ -1,0 +1,63 @@
+\o Program:		@(#)$CDS: libManager.exe version Exp 01/19/2010 20:09 (ocelot-linux) $
+\o Sub version:		sub-version none
+\o Arguments:		-unmapped -mpssession icfb10682 -mpshost tud208368 
+\o Working Directory:	tud208368:/home/biancozandberg/TDC/cell_design/ProjectTDC
+\o Extended color mode (TrueColor 32 0x5f) in use.
+\o Warning: LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
+\o LIB basic from File /home/biancozandberg/cds.lib
+\o Insert UNDEFINE basic
+\o before DEFINE basic
+\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
+\o Or remove or comment out DEFINE basic
+\o     in /home/biancozandberg/cds.lib
+\o to suppress this warning message.
+\o Warning: The directory: '/home/biancozandberg/ROD' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'ROD'.
+\o Warning: The directory: '/home/biancozandberg/cellTechLib' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'cellTechLib'.
+\o Warning: The directory: '/home/biancozandberg/tutorial' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'tutorial'.
+\o Warning: The directory: '/home/biancozandberg/pCells' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'pCells'.
+\o Warning: The directory: '/home/biancozandberg/master' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'master'.
+\o Library Manager customization server connected.
+MPS service: map window
+\o Log file is "/home/biancozandberg/TDC/cell_design/ProjectTDC/libManager.log".
+Opening libManager window.
+Main selection: ProjectTDC Pulse_shrink schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+\o Warning: LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
+\o LIB basic from File /home/biancozandberg/cds.lib
+\o Insert UNDEFINE basic
+\o before DEFINE basic
+\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
+\o Or remove or comment out DEFINE basic
+\o     in /home/biancozandberg/cds.lib
+\o to suppress this warning message.
+\o Warning: The directory: '/home/biancozandberg/ROD' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'ROD'.
+\o Warning: The directory: '/home/biancozandberg/cellTechLib' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'cellTechLib'.
+\o Warning: The directory: '/home/biancozandberg/tutorial' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'tutorial'.
+\o Warning: The directory: '/home/biancozandberg/pCells' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'pCells'.
+\o Warning: The directory: '/home/biancozandberg/master' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'master'.
+MPS request: update library list
+Main selection: ProjectTDC ControlUnit schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC ControlUnit symbol
+Invoking command (fileOpenReadOnly).
+\o Opening design file for read through session server.
+MPS request: open design readonly
+Main selection: ProjectTDC Pulse_shrink schematic
+Invoking command (fileOpenReadOnly).
+\o Opening design file for read through session server.
+MPS request: open design readonly
+\o libManager is exiting.
