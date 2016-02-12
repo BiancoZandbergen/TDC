@@ -1,0 +1,37 @@
+#
+ProjectTDC Inverter symbol
+I30
+#
+ProjectTDC OR2 symbol
+I51
+#
+ProjectTDC AND2 symbol
+I52
+#
+ProjectTDC NAND2 symbol
+I77
+#
+ProjectTDC buffer2 symbol
+I80
+I79
+I97
+#
+ProjectTDC Inverter_small symbol
+I94
+#
+ProjectTDC expander symbol
+I95
+#ISCELL
+basic ipin symbol
+PIN9
+PIN20
+PIN12
+PIN10
+PIN1
+PIN0
+PIN8
+#ISCELL
+basic opin symbol
+PIN2
+PIN4
+PIN3

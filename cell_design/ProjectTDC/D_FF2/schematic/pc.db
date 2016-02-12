@@ -1,13 +1,13 @@
 #
 ProjectTDC NAND2_small symbol
-I5
 I4
+I5
 #
 ProjectTDC NAND3_small symbol
-I6
+I1
 I2
 I3
-I1
+I6
 #ISCELL
 basic opin symbol
 PIN2

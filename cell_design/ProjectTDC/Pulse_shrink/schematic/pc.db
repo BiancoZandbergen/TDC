@@ -1,4 +1,7 @@
 #
+ProjectTDC ControlUnit symbol
+I110
+#
 ProjectTDC DelayLine symbol
 I109
 #
@@ -8,31 +11,8 @@ I108
 ProjectTDC Loopback_DelayLine symbol
 I102
 #
-ProjectTDC expander symbol
-I95
-#
-ProjectTDC Inverter_small symbol
-I94
-#
-ProjectTDC buffer2 symbol
-I79
-I80
-I97
-#
-ProjectTDC NAND2 symbol
-I77
-#
-ProjectTDC AND2 symbol
-I52
-#
-ProjectTDC OR2 symbol
-I51
-#
 ProjectTDC thermometerEnc8 symbol
 I37
-#
-ProjectTDC Inverter symbol
-I30
 #ISCELL
 basic opin symbol
 PIN19
@@ -49,6 +29,6 @@ PIN7
 basic ipin symbol
 PIN12
 PIN20
+PIN1
 PIN9
 PIN0
-PIN1
