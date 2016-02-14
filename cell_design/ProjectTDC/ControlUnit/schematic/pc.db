@@ -28,10 +28,12 @@ PIN8
 PIN1
 PIN0
 PIN9
-PIN20
-PIN12
 #ISCELL
 basic opin symbol
 PIN2
 PIN4
 PIN3
+#ISCELL
+basic iopin symbolr
+PIN5
+PIN6

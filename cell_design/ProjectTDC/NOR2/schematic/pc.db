@@ -11,7 +11,9 @@ basic opin symbol
 PIN3
 #ISCELL
 basic ipin symbol
-PIN0
-PIN4
 PIN2
 PIN1
+#ISCELL
+basic iopin symbolr
+PIN5
+PIN6

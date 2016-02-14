@@ -8,10 +8,12 @@ NM0
 NM1
 #ISCELL
 basic ipin symbol
-PIN4
-PIN5
 PIN1
 PIN2
 #ISCELL
 basic opin symbol
 PIN3
+#ISCELL
+basic iopin symbolr
+PIN0
+PIN4

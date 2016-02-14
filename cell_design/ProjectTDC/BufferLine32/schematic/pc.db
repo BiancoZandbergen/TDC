@@ -67,8 +67,10 @@ I114
 #ISCELL
 basic ipin symbol
 PIN11
-PIN2
-PIN3
 #ISCELL
 basic opin symbol
 PIN5
+#ISCELL
+basic iopin symbolr
+PIN0
+PIN1

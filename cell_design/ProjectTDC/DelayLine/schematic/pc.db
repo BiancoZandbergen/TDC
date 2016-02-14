@@ -19,8 +19,6 @@ I6
 I10
 #ISCELL
 basic ipin symbol
-PIN0
-PIN1
 PIN11
 PIN12
 #ISCELL
@@ -33,3 +31,7 @@ PIN10
 PIN8
 PIN6
 PIN5
+#ISCELL
+basic iopin symbolr
+PIN2
+PIN13

@@ -21,7 +21,9 @@ PIN18
 PIN19
 #ISCELL
 basic ipin symbol
-PIN3
-PIN2
 PIN0
 PIN1
+#ISCELL
+basic iopin symbolr
+PIN4
+PIN5
