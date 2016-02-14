@@ -1,8 +1,7 @@
 \o Program:		@(#)$CDS: libManager.exe version Exp 01/19/2010 20:09 (ocelot-linux) $
 \o Sub version:		sub-version none
-\o Arguments:		-unmapped -mpssession icfb10682 -mpshost tud208368 
-\o Working Directory:	tud208368:/home/biancozandberg/TDC/cell_design/ProjectTDC
-\o Extended color mode (TrueColor 32 0x5f) in use.
+\o Arguments:		-unmapped -mpssession icfb13044 -mpshost et4293.et.tudelft.nl 
+\o Working Directory:	et4293.et.tudelft.nl:/home/biancozandberg/TDC/cell_design/ProjectTDC
 \o Warning: LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
 \o LIB basic from File /home/biancozandberg/cds.lib
 \o Insert UNDEFINE basic
@@ -25,7 +24,7 @@
 MPS service: map window
 \o Log file is "/home/biancozandberg/TDC/cell_design/ProjectTDC/libManager.log".
 Opening libManager window.
-Main selection: ProjectTDC Pulse_shrink schematic
+Main selection: ProjectTDC D_FF schematic
 Invoking command (fileOpen).
 \o Opening design file through session server.
 MPS request: edit design
@@ -49,15 +48,248 @@ MPS request: edit design
 \o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'master'.
 MPS request: update library list
 Main selection: ProjectTDC ControlUnit schematic
+Invoking command (fileOpenReadOnly).
+\o Opening design file for read through session server.
+MPS request: open design readonly
+Main selection: ProjectTDC D_FF2 schematic
+Invoking command (fileOpenReadOnly).
+\o Opening design file for read through session server.
+MPS request: open design readonly
 Invoking command (fileOpen).
 \o Opening design file through session server.
 MPS request: edit design
-Main selection: ProjectTDC ControlUnit symbol
+Main selection: ProjectTDC D_FF schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC ControlUnit schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC Counter schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC ControlUnit schematic
 Invoking command (fileOpenReadOnly).
 \o Opening design file for read through session server.
 MPS request: open design readonly
+Main selection: ProjectTDC Counter schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC D_FF2 schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC D_FF_test schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Invoking command (fileOpenReadOnly).
+\o Opening design file for read through session server.
+MPS request: open design readonly
+Main selection: ProjectTDC D_FF schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC D_FF symbol
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC D_FF_test schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC Counter schematic
+Invoking command (fileOpenReadOnly).
+\o Opening design file for read through session server.
+MPS request: open design readonly
+Main selection: ProjectTDC DelayLine schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC D_FF_test schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC DelayLine schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC Inverter schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC JK_FF schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
 Main selection: ProjectTDC Pulse_shrink schematic
-Invoking command (fileOpenReadOnly).
-\o Opening design file for read through session server.
-MPS request: open design readonly
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC thermometerEnc8 symbol
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC Pulse_shrink schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC thermometerEnc8 schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC thermometerEnc8 symbol
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC Pulse_shrink schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC shrinker symbol
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC TwoInverter symbol
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC buffer symbol
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC TwoInverter schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC DelayLine schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC TwoInverter schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC TwoInverter symbol
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC DelayLine schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC TwoInverter schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC TwoInverter symbol
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC TwoInverter_test schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC AND2 schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC shrinker schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC expander schematic
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+Main selection: ProjectTDC TwoInverter schematic
+Invoking command (editRename).
+Showing dialog "Rename Cell ProjectTDC/TwoInverter" (renameDialog).
+Dialog activated Ok in "Rename Cell ProjectTDC/TwoInverter" (renameDialog).
+\o View file /home/biancozandberg/TDC/cell_design/ProjectTDC/TwoInverter/symbol/symbol.cdb is locked by biancozandberg at host icdvm15.ewi.tudelft.nl
+Closing dialog "Rename Cell ProjectTDC/TwoInverter" (renameDialog).
+Showing dialog "Rename Failed" (errorDialog).
+\o Cell ProjectTDC/TwoInverter has files that are locked or are checked out.
+\o Please check the "Messages" window for a list of which files are causing problem
+\o Rename failed.
+Closing dialog "Rename Failed" (errorDialog).
+Dialog activated Ok in "Rename Failed" (errorDialog).
+Invoking command (editRename).
+Showing dialog "Rename Cell ProjectTDC/TwoInverter" (renameDialog).
+Dialog activated Ok in "Rename Cell ProjectTDC/TwoInverter" (renameDialog).
+\o Renaming cell "TwoInverter" to "ShrinkElement" in library "ProjectTDC".
+Showing dialog "Rename Monitor - 10 Files" (copyProgressDialog).
+\o Copying ProjectTDC/TwoInverter/schematic
+\o Copying ProjectTDC/TwoInverter/symbol
+\o Copying ProjectTDC/TwoInverter/prop.xx
+\o Transfer of 10 files phase complete in  0:00:00
+Closing dialog "Rename Monitor - 10 Files" (copyProgressDialog).
+\o Performing instance update.
+\o Start running ccpCdbaUpdtr ...
+\o *WARNING* LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
+\o LIB basic from File /home/biancozandberg/cds.lib
+\o Insert UNDEFINE basic
+\o before DEFINE basic
+\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
+\o Or remove or comment out DEFINE basic
+\o     in /home/biancozandberg/cds.lib
+\o to suppress this warning message.
+\o *WARNING* The directory: '/home/biancozandberg/ROD' does not exist
+\o ccpCdbaUpdtr ran successfully ...
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'ROD'.
+\o *WARNING* The directory: '/home/biancozandberg/cellTechLib' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'cellTechLib'.
+\o *WARNING* The directory: '/home/biancozandberg/tutorial' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'tutorial'.
+\o *WARNING* The directory: '/home/biancozandberg/pCells' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'pCells'.
+\o *WARNING* The directory: '/home/biancozandberg/master' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'master'.
+\o Loading umc90nm/libInit.il ...
+\o 	Loading umc90nm/loadCxt.ile ... done!
+\o 	Loading context 'umc90nm' from library 'umc90nm' ... done!
+\o 	Loading context 'pdkUtils' from library 'umc90nm' ... done!
+\o 	Loading context 'Util' from library 'umc90nm' ... done!
+\o 	Loading context 'RF_CB_all' from library 'umc90nm' ... done!
+\o 	Loading context 'MM_other_CB' from library 'umc90nm' ... done!
+\o 	Loading context 'OIF_OCF_CB_all' from library 'umc90nm' ... done!
+\o 	Loading umc90nm/.cdsenv ... done!
+\o 	Loading umc90nm/libInitCustomExit.il ... done!
+\o Loaded umc90nm/libInit.il successfully!
+Closing dialog "Rename Cell ProjectTDC/TwoInverter" (renameDialog).
+\o Warning: LIB basic from File /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib Line 4 redefines
+\o LIB basic from File /home/biancozandberg/cds.lib
+\o Insert UNDEFINE basic
+\o before DEFINE basic
+\o     in /u/55/55/cadence/DesignKits/UMC090_ET4293/designkit/cds.lib
+\o Or remove or comment out DEFINE basic
+\o     in /home/biancozandberg/cds.lib
+\o to suppress this warning message.
+\o Warning: The directory: '/home/biancozandberg/ROD' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'ROD'.
+\o Warning: The directory: '/home/biancozandberg/cellTechLib' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'cellTechLib'.
+\o Warning: The directory: '/home/biancozandberg/tutorial' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'tutorial'.
+\o Warning: The directory: '/home/biancozandberg/pCells' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'pCells'.
+\o Warning: The directory: '/home/biancozandberg/master' does not exist
+\o 	but was defined in libFile '/home/biancozandberg/cds.lib' for Lib 'master'.
+MPS request: update library list
+Main selection: ProjectTDC ShrinkElement symbol
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
 \o libManager is exiting.

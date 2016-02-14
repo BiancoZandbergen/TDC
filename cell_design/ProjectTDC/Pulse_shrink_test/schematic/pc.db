@@ -7,7 +7,7 @@ V1
 V0
 V3
 #
-ProjectTDC Pulse_shrink symbol
+ProjectTDC TimeToDigitalConverter symbol
 I0
 #ISCELL
 analogLib gnd symbol

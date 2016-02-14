@@ -2,7 +2,7 @@
 ProjectTDC SchmittTrigger2 symbol
 I15
 #
-ProjectTDC buffer symbol
+ProjectTDC BufferLine32 symbol
 I12
 I13
 I14

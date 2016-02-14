@@ -1,14 +1,14 @@
 #
 ProjectTDC D_FF symbol
-I86
-I4
-I0
-I8
-I3
+I19
+I16
+I18
+I15
+I17
 I7
-I11
+I14
 #
-ProjectTDC TwoInverter symbol
+ProjectTDC ShrinkElement symbol
 I1
 I68
 I9

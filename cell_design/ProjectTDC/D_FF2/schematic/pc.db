@@ -4,9 +4,9 @@ I4
 I5
 #
 ProjectTDC NAND3_small symbol
-I3
 I1
 I2
+I3
 I6
 #ISCELL
 basic opin symbol
@@ -14,8 +14,8 @@ PIN2
 PIN1
 #ISCELL
 basic ipin symbol
-PIN4
+PIN0
 PIN3
+PIN4
 PIN6
 PIN5
-PIN0

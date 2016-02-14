@@ -11,10 +11,10 @@ I52
 ProjectTDC NAND2 symbol
 I77
 #
-ProjectTDC buffer2 symbol
+ProjectTDC Buffer symbol
+I97
 I80
 I79
-I97
 #
 ProjectTDC Inverter_small symbol
 I94
@@ -23,13 +23,13 @@ ProjectTDC expander symbol
 I95
 #ISCELL
 basic ipin symbol
+PIN10
+PIN8
+PIN1
+PIN0
 PIN9
 PIN20
 PIN12
-PIN10
-PIN1
-PIN0
-PIN8
 #ISCELL
 basic opin symbol
 PIN2

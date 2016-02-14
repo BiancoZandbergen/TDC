@@ -3,24 +3,24 @@ ProjectTDC Inverter symbol
 I15
 #
 ProjectTDC NAND3 symbol
-I18
 I13
+I18
 I1
 #
 ProjectTDC NAND2 symbol
-I20
 I19
 I4
 I5
 I6
+I20
 #ISCELL
 basic opin symbol
 PIN0
 #ISCELL
 basic ipin symbol
-PIN5
 PIN7
 PIN6
+PIN5
 PIN4
 PIN3
 PIN2
