@@ -272,3 +272,56 @@ printf("END OF USER CUSTOMIZATION\n")
 
 ;
 ;END OF USER CUSTOMIZATION
+
+/* twen
+ * 2016-02-09
+ * Eg: twFixTermOrder("mylib")
+ *     twFixTermOrder("mylib" "mycell")
+ */
+procedure(twFixTermOrder(lib @optional (cell nil))
+    let((oldAutoCtl libId cellId cellIds)
+        ;; Save the prompting and automatic check-in and check-out controls
+        oldAutoCtl = ddAutoCtlGetVars()
+        ;; Do not prompt the user to check-in or check-out
+        ddAutoCtlSetVars(0 0 3 3)
+        
+        when(libId=ddGetObj(lib)
+            ;; If no cell name is specified, then fix all cells in the lib
+            if(cell cellIds=list(ddGetObj(lib cell)) cellIds=libId->cells)
+            foreach(cellId cellIds
+                when(ddGetObj(lib cellId->name "schematic")
+                    printf("Updating the CDF termOrder for %s/%s \n" lib cellId->name)
+                    artGenerateHierSymbolCDF(dbOpenCellViewByType(lib cellId->name "schematic") t)
+                )
+            )
+        )
+        ;; Restore the prompting and automatic check-in and check-out controls
+        apply(`ddAutoCtlSetVars oldAutoCtl)
+    )
+)
+
+/*
+twFixTermOrder("ProjectTDC", "AND2")
+twFixTermOrder("ProjectTDC", "ControlUnit")
+twFixTermOrder("ProjectTDC", "Counter")
+twFixTermOrder("ProjectTDC", "D_FF")
+twFixTermOrder("ProjectTDC", "D_FF2")
+twFixTermOrder("ProjectTDC", "DelayLine")
+twFixTermOrder("ProjectTDC", "Inverter")
+twFixTermOrder("ProjectTDC", "Inverter_small")
+twFixTermOrder("ProjectTDC", "Loopback_DelayLine")
+twFixTermOrder("ProjectTDC", "NAND2")
+twFixTermOrder("ProjectTDC", "NAND3")
+twFixTermOrder("ProjectTDC", "NOR2")
+twFixTermOrder("ProjectTDC", "OR2")
+twFixTermOrder("ProjectTDC", "Pulse_Shrink")
+twFixTermOrder("ProjectTDC", "ShrinkElement")
+twFixTermOrder("ProjectTDC", "XOR2")
+twFixTermOrder("ProjectTDC", "buffer")
+twFixTermOrder("ProjectTDC", "buffer2")
+twFixTermOrder("ProjectTDC", "expander")
+twFixTermOrder("ProjectTDC", "shrinker")
+twFixTermOrder("ProjectTDC", "thermometerEnc8")
+*/
+envSetVal("auCore.misc" "updateCDFtermOrder" 'boolean t)
+

@@ -1,0 +1,34 @@
+#
+ProjectTDC ControlUnit symbol
+I111
+#
+ProjectTDC DelayLine symbol
+I109
+#
+ProjectTDC Counter symbol
+I108
+#
+ProjectTDC Loopback_DelayLine symbol
+I102
+#
+ProjectTDC ThermometerDec8 symbol
+I37
+#ISCELL
+basic opin symbol
+PIN19
+PIN18
+PIN17
+PIN16
+PIN15
+PIN14
+PIN5
+PIN13
+PIN6
+PIN7
+#ISCELL
+basic ipin symbol
+PIN12
+PIN20
+PIN9
+PIN0
+PIN1
