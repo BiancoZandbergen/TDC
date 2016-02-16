@@ -1,13 +1,19 @@
 #
-ProjectTDC NAND2_small symbol
-I4
-I5
+ProjectTDC DFF_Buffer symbol
+I15
 #
-ProjectTDC NAND3_small symbol
-I1
-I2
-I3
-I6
+ProjectTDC Buffer symbol
+I13
+#
+ProjectTDC NAND3 symbol
+I8
+I10
+I11
+I12
+#
+ProjectTDC NAND2 symbol
+I7
+I9
 #ISCELL
 basic opin symbol
 PIN2

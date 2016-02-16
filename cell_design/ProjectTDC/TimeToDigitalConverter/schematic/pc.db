@@ -1,4 +1,8 @@
 #
+ProjectTDC BufferLine32 symbol
+I113
+I112
+#
 ProjectTDC ControlUnit symbol
 I111
 #
@@ -7,9 +11,6 @@ I109
 #
 ProjectTDC Counter symbol
 I108
-#
-ProjectTDC Loopback_DelayLine symbol
-I102
 #
 ProjectTDC ThermometerDec8 symbol
 I37

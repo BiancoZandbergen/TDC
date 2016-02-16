@@ -1,4 +1,7 @@
 #
+ProjectTDC D_FF2 symbol
+I0
+#
 ProjectTDC Inverter symbol
 I30
 #
@@ -6,14 +9,16 @@ ProjectTDC OR2 symbol
 I51
 #
 ProjectTDC AND2 symbol
+I1
 I52
 #
 ProjectTDC NAND2 symbol
 I77
 #
 ProjectTDC Buffer symbol
-I97
+I2
 I80
+I97
 I79
 #
 ProjectTDC Inverter_small symbol
