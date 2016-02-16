@@ -1,6 +1,9 @@
 #
 ProjectTDC Buffer symbol
+I15
 I101
+I16
+I17
 #
 ProjectTDC D_FF2 symbol
 I8
@@ -21,8 +24,8 @@ PIN18
 PIN19
 #ISCELL
 basic ipin symbol
-PIN0
 PIN1
+PIN0
 #ISCELL
 basic iopin symbolr
 PIN4

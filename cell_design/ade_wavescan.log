@@ -1,0 +1,13 @@
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at COM.cadence.awd.graph.Rect2DGraph.clearStripChart(Rect2DGraph.java:1648)
+	at COM.cadence.awd.graph.StripTable.clearRows(StripTable.java:110)
+	at COM.cadence.awd.graph.RowTable.copyToOffair(RowTable.java:374)
+	at COM.cadence.awd.graph.RowTable.access$000(RowTable.java:47)
+	at COM.cadence.awd.graph.RowTable$1.run(RowTable.java:319)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
