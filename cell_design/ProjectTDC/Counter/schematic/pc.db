@@ -1,9 +1,15 @@
 #
+ProjectTDC NOR2 symbol
+I20
+#
+ProjectTDC Inverter symbol
+I21
+#
 ProjectTDC Buffer symbol
 I15
-I101
 I16
 I17
+I19
 #
 ProjectTDC D_FF2 symbol
 I8
@@ -12,6 +18,7 @@ I3
 I5
 I11
 I12
+I13
 I7
 #ISCELL
 basic opin symbol
@@ -24,8 +31,8 @@ PIN18
 PIN19
 #ISCELL
 basic ipin symbol
-PIN1
 PIN0
+PIN1
 #ISCELL
 basic iopin symbolr
 PIN4

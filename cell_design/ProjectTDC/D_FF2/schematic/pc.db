@@ -1,9 +1,7 @@
 #
 ProjectTDC DFF_Buffer symbol
+I16
 I15
-#
-ProjectTDC Buffer symbol
-I13
 #
 ProjectTDC NAND3 symbol
 I8

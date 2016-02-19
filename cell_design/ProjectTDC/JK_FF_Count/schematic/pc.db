@@ -1,0 +1,31 @@
+#
+ProjectTDC Buffer symbol
+I17
+I16
+I15
+#
+ProjectTDC JK_FF symbol
+I4
+I6
+I5
+I3
+I2
+I1
+I0
+#ISCELL
+basic iopin symbolr
+PIN5
+PIN4
+#ISCELL
+basic ipin symbol
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN19
+PIN18
+PIN17
+PIN16
+PIN15
+PIN14
+PIN13
