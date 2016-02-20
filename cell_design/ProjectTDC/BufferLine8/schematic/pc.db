@@ -1,0 +1,28 @@
+#
+ProjectTDC Inverter symbol
+I64
+I65
+I66
+I67
+I68
+I69
+I70
+I71
+I72
+I73
+I74
+I75
+I76
+I77
+I78
+I0
+#ISCELL
+basic ipin symbol
+PIN11
+#ISCELL
+basic opin symbol
+PIN5
+#ISCELL
+basic iopin symbolr
+PIN0
+PIN1

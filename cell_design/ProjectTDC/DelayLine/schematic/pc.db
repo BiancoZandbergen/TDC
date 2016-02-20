@@ -1,8 +1,17 @@
 #
+ProjectTDC D_FF3 symbol
+I37
+I36
+I35
+I34
+I33
+I32
+I31
+#
 ProjectTDC DFF_Buffer symbol
-I29
-I28
 I27
+I28
+I29
 #
 ProjectTDC BufferLine32 symbol
 I20
@@ -12,15 +21,6 @@ I23
 I24
 I25
 I26
-#
-ProjectTDC D_FF symbol
-I19
-I16
-I18
-I15
-I17
-I7
-I14
 #
 ProjectTDC ShrinkElement symbol
 I1
@@ -33,18 +33,18 @@ I6
 I10
 #ISCELL
 basic ipin symbol
-PIN12
 PIN11
+PIN12
 #ISCELL
 basic opin symbol
-PIN7
 PIN3
-PIN4
 PIN9
-PIN10
 PIN8
+PIN7
 PIN6
 PIN5
+PIN4
+PIN10
 #ISCELL
 basic iopin symbolr
 PIN2

@@ -1,26 +1,26 @@
 #
 ProjectTDC DFF_Buffer symbol
-I19
-I20
+I16
+I15
 #
 ProjectTDC NAND3 symbol
-I15
+I8
+I10
 I11
-I13
-I14
+I12
 #
 ProjectTDC NAND2 symbol
+I7
 I9
-I0
-#ISCELL
-basic ipin symbol
-PIN4
-PIN3
-PIN0
 #ISCELL
 basic opin symbol
 PIN1
 #ISCELL
+basic ipin symbol
+PIN0
+PIN3
+PIN4
+#ISCELL
 basic iopin symbolr
-PIN2
-PIN5
+PIN7
+PIN8

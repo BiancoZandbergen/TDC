@@ -1,14 +1,15 @@
 #
+ProjectTDC D_FF3 symbol
+I28
+#
 ProjectTDC DFF_Buffer symbol
-I18
-I17
-I16
+I31
+I29
+I22
+I26
 #
 ProjectTDC NOR2 symbol
 I15
-#
-ProjectTDC D_FF2 symbol
-I13
 #
 ProjectTDC Inverter symbol
 I14

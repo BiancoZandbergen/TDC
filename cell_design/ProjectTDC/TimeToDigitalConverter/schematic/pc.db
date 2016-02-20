@@ -1,10 +1,9 @@
 #
+ProjectTDC DFF_Buffer symbol
+I116
+#
 ProjectTDC Counter symbol
 I115
-#
-ProjectTDC BufferLine32 symbol
-I113
-I112
 #
 ProjectTDC ControlUnit symbol
 I111

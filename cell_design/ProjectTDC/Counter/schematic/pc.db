@@ -1,4 +1,12 @@
 #
+ProjectTDC D_FF3 symbol
+I27
+#
+ProjectTDC DFF_Buffer symbol
+I28
+I29
+I23
+#
 ProjectTDC NOR2 symbol
 I20
 #
@@ -9,7 +17,6 @@ ProjectTDC Buffer symbol
 I15
 I16
 I17
-I19
 #
 ProjectTDC D_FF2 symbol
 I8
@@ -18,7 +25,6 @@ I3
 I5
 I11
 I12
-I13
 I7
 #ISCELL
 basic opin symbol
